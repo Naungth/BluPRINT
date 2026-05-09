@@ -1,0 +1,26 @@
+[
+  {
+    "condition": "SD15",
+    "fid": 24.827377678018593,
+    "cmmd": 1.61,
+    "ssim_mean": 0.4028819379925266,
+    "ssim_std": 0.14756231720995938,
+    "matched_images": 1364,
+    "missing_generated_images": 7483,
+    "real_dir": "/home/ubuntu/BluPRINT/dataset",
+    "generated_dir": "/home/ubuntu/BluPRINT/C1",
+    "conditioning_dir": "/home/ubuntu/BluPRINT/hint_images"
+  },
+  {
+    "condition": "Canny",
+    "fid": 36.150704205250975,
+    "cmmd": 1.61,
+    "ssim_mean": 0.16121634958478623,
+    "ssim_std": 0.10107922361454243,
+    "matched_images": 1364,
+    "missing_generated_images": 7483,
+    "real_dir": "/home/ubuntu/BluPRINT/dataset",
+    "generated_dir": "/home/ubuntu/BluPRINT/C3",
+    "conditioning_dir": "/home/ubuntu/BluPRINT/hint_images"
+  }
+]
